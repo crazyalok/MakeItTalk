@@ -9,3 +9,4 @@ librosa==0.8.1
 pysptk
 pyworld
 resemblyzer
+numpy==1.24
